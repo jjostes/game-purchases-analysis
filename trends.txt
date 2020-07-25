@@ -1,7 +1,0 @@
------THREE OBSERVABLE TRENDS-----
-
-1. Player age looks to be normally distributed, with a median range of ages 20-24.
-
-2. There doesn't seem to be much variance between specified genders irt the average amount spent per person as well as the average price of items - if one was wanting to see if there were certain items they could tailor to those demographics. 
-
-3. I suppose a very easy trend to point out is that the majority of players are male, at 84% of the total player count. 

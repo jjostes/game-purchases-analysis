@@ -20,28 +20,44 @@ Using Jupyter Notebook, open purchasing_data.ipynb to run the code with appropri
 ## Results
 
 ### Purchasing Analysis (Total)
+
 ![purchase-overview]
 
+
 ### Gender Demographics
+
 ![gender-demographics]
 
+
 ### Purchasing Analysis (Gender)
+
 ![gender-summary]
 
+
 ### Age Demographics
+
 ![age-demographics]
 
+
 ### Purchasing Analysis (Age)
+
 ![age-summary]
 
+
 ### Top Spenders
+
 ![top-spenders]
 
+
 ### Most Popular Items
+
 ![pop-items]
 
+
 ### Most Profitable Items
+
 ![prof-items]
+
 
 <!-- CONTACT -->
 ## Contact

@@ -64,7 +64,7 @@ Using Jupyter Notebook, open purchasing_data.ipynb to run the code with appropri
 
 John Jostes - [https://www.linkedin.com/in/john-jostes-386b841a0/](https://www.linkedin.com/in/john-jostes-386b841a0/)
 
-Project Link: [https://github.com/jjostes/pandas_challenge](https://github.com/jjostes/pandas_challenge)
+Project Link: [https://github.com/jjostes/game-purchases-analysis](https://github.com/jjostes/game-purchases-analysis)
 
 
 <!-- MARKDOWN IMAGE LINKS-->
